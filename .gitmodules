@@ -1,0 +1,9 @@
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:Vauxoo/server-tools.git
+	branch = 12.0
+[submodule "turicia"]
+	path = turicia
+	url = git@git.vauxoo.com:Vauxoo/turicia.git
+	branch = 12.0
+
