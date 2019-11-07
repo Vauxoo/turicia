@@ -5,4 +5,4 @@
 [submodule "turicia"]
 	path = turicia
 	url = git@git.vauxoo.com:Vauxoo/turicia.git
-	branch = 12.0
+	branch = 120-add_customs_number-goliveirab
